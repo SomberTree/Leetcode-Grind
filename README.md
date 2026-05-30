@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SomberTree/Leetcode-Grind/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Backtracking
 |  |
@@ -46,4 +47,24 @@
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SomberTree/Leetcode-Grind/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Binary Search
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
