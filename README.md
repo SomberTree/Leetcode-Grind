@@ -80,4 +80,8 @@
 |  |
 | ------- |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/SomberTree/Leetcode-Grind/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0629-k-inverse-pairs-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0629-k-inverse-pairs-array) |
 <!---LeetCode Topics End-->
