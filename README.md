@@ -55,6 +55,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
 ## Rolling Hash
 |  |
@@ -71,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/SomberTree/Leetcode-Grind/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 ## Bit Manipulation
 |  |
@@ -84,4 +86,16 @@
 |  |
 | ------- |
 | [0629-k-inverse-pairs-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0629-k-inverse-pairs-array) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
