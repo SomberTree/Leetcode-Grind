@@ -74,6 +74,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/SomberTree/Leetcode-Grind/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0629-k-inverse-pairs-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0629-k-inverse-pairs-array) |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
 ## Queue
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
