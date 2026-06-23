@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/SomberTree/Leetcode-Grind/tree/master/0071-simplify-path) |
 | [1122-longest-duplicate-substring](https://github.com/SomberTree/Leetcode-Grind/tree/master/1122-longest-duplicate-substring) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SomberTree/Leetcode-Grind/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Backtracking
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/SomberTree/Leetcode-Grind/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
