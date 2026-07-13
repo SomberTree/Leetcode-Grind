@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SomberTree/Leetcode-Grind/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## String
 |  |
@@ -73,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/SomberTree/Leetcode-Grind/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
