@@ -80,6 +80,7 @@
 | [0189-rotate-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SomberTree/Leetcode-Grind/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SomberTree/Leetcode-Grind/tree/master/0485-max-consecutive-ones) |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/SomberTree/Leetcode-Grind/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
