@@ -21,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SomberTree/Leetcode-Grind/tree/master/0075-sort-colors) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SomberTree/Leetcode-Grind/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/SomberTree/Leetcode-Grind/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SomberTree/Leetcode-Grind/tree/master/0283-move-zeroes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SomberTree/Leetcode-Grind/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/SomberTree/Leetcode-Grind/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SomberTree/Leetcode-Grind/tree/master/0283-move-zeroes) |
