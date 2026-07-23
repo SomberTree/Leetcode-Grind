@@ -80,6 +80,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SomberTree/Leetcode-Grind/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SomberTree/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/SomberTree/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/SomberTree/Leetcode-Grind/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SomberTree/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0629-k-inverse-pairs-array](https://github.com/SomberTree/Leetcode-Grind/tree/master/0629-k-inverse-pairs-array) |
 | [3742-maximum-number-of-items-from-sale-i](https://github.com/SomberTree/Leetcode-Grind/tree/master/3742-maximum-number-of-items-from-sale-i) |
 ## Queue
